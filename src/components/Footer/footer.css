@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 576px) {
+    .nav-link img {
+        width: 60px;
+        height: 60px;
+        margin:auto;
+    }
+    
+}
