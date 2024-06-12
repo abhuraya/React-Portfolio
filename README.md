@@ -14,24 +14,30 @@
  [License](#license)
  
 
-  ## Description
+## Description
 
-    A react driven website acting as a resume and portfolio for all of my work
+- A react driven website displaying projects and information which might help potential employers in their hiring decision.
 
 
-  ## Usage
+## Usage
 
-    For potential employers to view my projects and contact me if they are interested
-
-  ## Github Links
+- The homepage has a picture, a short bio and links to different parts of the website.
+- Clicking the links will divert the window to a different page regarding the topic of the link
 
     
 
-  ## Contributors
+## Github Links
 
-    React.js, node.js, bootstrap, vite
+https://github.com/abhuraya/React-Portfolio    
+
+## Contributors
+
+Abhudaya Rayamajhi
+
+https://github.com/abhuraya/React-Portfolio
+https://arayamajhi.netlify.app/
  
     
-  ## License
+## License
 
   This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)

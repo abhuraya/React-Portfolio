@@ -13,7 +13,7 @@ export default function About() {
             </div>
             <div className="col-sm-7 m-1">
                     <p>
-                        
+                        My name is Abhudaya Rayamajhi, I was born in Nepal and imigrated to America. 
 
                     </p>
 
