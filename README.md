@@ -23,6 +23,7 @@
 
 - The homepage has a picture, a short bio and links to different parts of the website.
 - Clicking the links will divert the window to a different page regarding the topic of the link
+- Links at the bottom of the page will divert the window to profiles on Github, Linkedin, and codeacademy respectively
 
     
 
