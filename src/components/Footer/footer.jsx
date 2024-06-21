@@ -10,18 +10,8 @@ export default function Footer(){
             <nav class="navbar navbar-expand-lg">
                     <ul class="navbar-nav">
                         <li class="nav-item mx-5">
-                            <a class="nav-link" href="https://github.com/abhuraya" target='_blank'>
-                                <img src={githubSvg}></img>
-                            </a>
-                        </li>
-                        <li class="nav-item mx-5">
                             <a class="nav-link" href="https://www.linkedin.com/in/abhudaya-rayamajhi-516412118/" target='_blank'>
                                 <img src={linkedInSvg}></img>
-                            </a>
-                        </li>
-                        <li class="nav-item mx-5">
-                            <a class="nav-link" href="https://www.codecademy.com/profiles/arayamajhi" target='_blank'>
-                                <img src={codeCademy}></img>
                             </a>
                         </li>
                     </ul>
